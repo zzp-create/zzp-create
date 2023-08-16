@@ -57,17 +57,19 @@ mindmap
   root((BlackPig))
     编程
       Web开发
-      QT
+      MySQL
       Java
+      Python
     摄影
       风光
     旅行
       南京
       上海
-      温州
-      温岭
-      杭州
-      绍兴
+      合肥
+      武汉
+      哈尔滨
+      云南
+      北京
     阅读
       人物传记
       个人成长
