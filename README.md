@@ -54,7 +54,7 @@ Sunday                   324 commits         ████░░░░░░░�
 
 ```mermaid
 mindmap
-  root((你的谈老板))
+  root((BlackPig))
     编程
       Web开发
       QT
